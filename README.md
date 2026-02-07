@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy [Isaí] 👋
+Científico de datos enfocado en generar impactos de negocio.
 
-<!--
-**isailzc/isailzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 ¿En qué trabajo?
+- Modelización predictiva aplicada a problemas de negocio
+- Análisis exploratorio de datos (EDA)
+- Machine Learning supervisado y no supervisado
+- Automatización de procesos analíticos
 
-Here are some ideas to get you started:
+## 📊Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Credit Scoring Bancario** | Modelos de riesgo crediticio y cálculo de Pérdida Esperada para priorización de solicitudes | [ver repo](https://github.com/isailzc/credit-scoring-bancario) |
+| **Forecasting de ventas en retail** | Predicción de demanda diaria a nivel tienda-producto para apoyo a decisiones de inventario |[ver repo](https://github.com/isailzc/forecast-ventas-retail) |
+| **Lead Scoring y segmentación** | Scoring y segmentación de clientes para optimización de recursos de marketing. | [ver repo](https://github.com/isailzc/lead-scoring-conversion-cursos) |
