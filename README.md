@@ -24,7 +24,7 @@ Physics background. I build predictive systems that work in production: clean da
 | 📊 [Retail Sales Forecasting](https://github.com/isailzc/forecast-ventas-retail) | MAE = 5.2 units/product-day · 8-day horizon · modular retraining pipeline |
 | 📈 [Lead Scoring & Segmentation](https://github.com/isailzc/lead-scoring-conversion-cursos) | AUC = 0.96 · K-Means segmentation · end-to-end reproducible flow |
 
-→ Full portfolio: [portafolio-ciencia-de-datos](https://github.com/isailzc/portafolio-ciencia-de-datos)
+→ Full portfolio: [Data Science Portfolio](https://github.com/isailzc/portafolio-ciencia-de-datos)
 
 ---
 
